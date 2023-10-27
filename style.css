@@ -1,0 +1,63 @@
+*{
+   font-family: 'Sofia Sans Extra Condensed'; 
+}
+header{
+    background-image: url("https://images6.alphacoders.com/121/1211942.jpg");
+}
+body{
+    background-color: #f4ff91;
+}
+/* comentario */
+
+p{
+    color: black ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: 30px;
+}
+h3{
+    color:#20c67a ;
+}
+.pregunta1{
+    color:#68da3e ;
+    font-size: 40px;
+}
+.pregunta2{
+    color: #ebb7ce;
+    font-size: 40px;
+}
+#listadeso{
+    color: #9e6788;
+    font-size: 30px;
+}
+img{
+    width:50% ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.titulo1{
+    color:#72FE1E;
+    font-size: 100px;
+    text-align: center;
+}
+.carac1{
+    font-size: 40px;
+}
+.subuni{
+    font-size: 40px;
+}
+.lideres{
+    font-size: 40px;
+}
+#listaorde{
+    font-size: 30px;
+}
+.etiquetaIn{
+    font-size: 30px;
+}
+.textoinfo{
+    text-align: justify;
+}
+label{
+    font-size: 30px;
+}
